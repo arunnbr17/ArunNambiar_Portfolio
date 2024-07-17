@@ -1,0 +1,101 @@
+﻿Phase_Code,Phase_Code_Name,Field_log_ID,Field_Log_Name,Job_ID,Job_Name,Unit_Of_Measurement,Total_Cost
+P1,Site Survey and Analysis,F1,Equipment Maintenance,J1,Site Preparation, Hours/Site,51965.00 
+P2,Environmental Impact Assessment,F2,Safety Briefing,J2,Foundation Excavation, Hours/Assessment,29441.00 
+P3,Soil Testing and Analysis,F3,Material Inventory,J3,Backfilling, Hours/Test,47230.00 
+P4,Permit Acquisition,F4,Site Security Patrol,J4,Formwork and Reinforcement, Days/Permit,49567.00 
+P5,Mobilization of Equipment,F5,Environmental Monitoring,J5,Concrete Pouring, Hours/Equipment Load,51184.00 
+P6,Installation of Temporary Fencing,F6,Material Handling,J6,Curing and Finishing, Linear Feet/Hour,40727.00 
+P7,Excavation and Earthwork,F7,Equipment Operation,J7,Foundation Waterproofing, Cubic Yards/Hour,67942.00 
+P8,Erosion Control Measures,F8,Worksite Inspection,J8,Anchor Bolt Installation, Square Feet/Hour,61755.00 
+P9,Underground Utility Locating,F9,Tool Maintenance,J9,Structural Steel Fabrication, Hours/Utility Mark,49737.00 
+P10,Foundation Design and Layout,F10,Waste Management,J10,Welding and Inspection, Hours/Plan,48905.00 
+P11,Footing Excavation,F11,Hazardous Material Handling,J11,Column Installation, Cubic Yards/Hour,57543.00 
+P12,Footing Pouring and Curing,F12,Emergency Response Drill,J12,Beam Installation, Cubic Yards/Hour,44590.00 
+P13,Foundation Waterproofing,F13,Worksite Cleanup,J13,Roof Truss Fabrication, Gallons/Hour,34451.00 
+P14,Backfilling Foundation,F14,Weather Monitoring,J14,Roof Truss Installation, Cubic Yards/Hour,40649.00 
+P15,Foundation Inspection,F15,Communication Log,J15,Formwork Installation, Hours/Inspection,35937.00 
+P16,Anchor Bolt Installation,F16,Daily Progress Report,J16,Reinforcement Placement, Bolts/Hour,73339.00 
+P17,Setting Building Layout Lines,F17,Equipment Fueling,J17,Concrete Pumping, Hours/Point,70636.00 
+P18,Site Grading and Leveling,F18,Equipment Lubrication,J18,Concrete Testing, Square Feet/Hour,58776.00 
+P19,Installation of Subsurface Drainage,F19,Equipment Repair,J19,Slab Pouring, Linear Feet/Hour,32694.00 
+P20,Installation of Site Utilities,F20,Crew Deployment,J20,Slab Finishing, Linear Feet/Hour,42254.00 
+P21,Rough Plumbing Installation,F21,Crew Briefing,J21,Concrete Sealing, Linear Feet/Hour,40701.00 
+P22,Rough Electrical Installation,F22,Equipment Deployment,J22,Masonry Wall Construction, Linear Feet/Hour,33574.00 
+P23,Rough HVAC Installation,F23,Incident Report,J23,Bricklaying, Linear Feet/Hour,51611.00 
+P24,Installation of Vapor Barriers,F24,Safety Incident Report,J24,Blocklaying, Square Feet/Hour,76586.00 
+P25,Pouring Slab-on-Grade,F25,Environmental Incident Report,J25,Stone Masonry, Cubic Yards/Hour,39664.00 
+P26,Slab Finishing and Curing,F26,Material Requisition,J26,Grouting, Square Feet/Hour,48986.00 
+P27,Concrete Curing and Protection,F27,Material Delivery Confirmation,J27,Joint Sealing, Days,27060.00 
+P28,Installation of Termite Treatment,F28,Material Handling Log,J28,Waterproofing, Gallons/Hour,26047.00 
+P29,Masonry Block Installation,F29,Safety Equipment Inspection,J29,Insulation Installation, Blocks/Hour,32683.00 
+P30,Framing Wall Construction,F30,First Aid Log,J30,Drywall Hanging, Linear Feet/Hour,49046.00 
+P31,Roof Deck Installation,F31,Toolbox Talk Log,J31,Drywall Finishing, Square Feet/Hour,43844.00 
+P32,Exterior Sheathing Installation,F32,Training Record,J32,Taping and Mudding, Square Feet/Hour,42410.00 
+P33,Window and Door Installation,F33,Near Miss Report,J33,Sanding, Windows or Doors/Hour,68589.00 
+P34,Roofing Installation,F34,Daily Work Log,J34,Priming, Square Feet/Hour,43495.00 
+P35,Siding Installation,F35,Break Log,J35,Painting (Interior), Square Feet/Hour,66707.00 
+P36,Exterior Trim Installation,F36,Lunch Log,J36,Painting (Exterior), Linear Feet/Hour,56822.00 
+P37,Installation of Insulation,F37,End-of-Day Inspection,J37,Wallpaper Installation, Square Feet/Hour,34937.00 
+P38,Drywall Installation,F38,Worksite Access Log,J38,Flooring Installation, Square Feet/Hour,36706.00 
+P39,Interior Trim Carpentry,F39,Vehicle Inspection Log,J39,Tile Setting, Linear Feet/Hour,50094.00 
+P40,Interior Door Installation,F40,Equipment Usage Log,J40,Grouting (Floor), Doors/Hour,50461.00 
+P41,Interior Painting,F41,Material Usage Log,J41,Hardwood Floor Installation, Square Feet/Hour,59957.00 
+P42,Flooring Installation,F42,Daily Equipment Inspection,J42,Carpet Installation, Square Feet/Hour,64000.00 
+P43,Tile Installation,F43,Material Transfer Log,J43,Vinyl Flooring Installation, Square Feet/Hour,36469.00 
+P44,Cabinetry Installation,F44,Waste Disposal Log,J44,Laminate Flooring Installation, Cabinets/Hour,31017.00 
+P45,Countertop Installation,F45,Safety Observation Log,J45,Epoxy Flooring Installation, Square Feet/Hour,37677.00 
+P46,Plumbing Fixture Installation,F46,Incident Investigation Log,J46,Countertop Fabrication, Fixtures/Hour,71275.00 
+P47,Electrical Fixture Installation,F47,Equipment Maintenance Log,J47,Countertop Installation, Fixtures/Hour,69020.00 
+P48,HVAC Ductwork Installation,F48,Safety Meeting Log,J48,Cabinet Installation, Linear Feet/Hour,47379.00 
+P49,Exterior Painting,F49,Environmental Compliance Log,J49,Door Installation, Square Feet/Hour,55714.00 
+P50,Landscaping Preparation,F50,Material Stockpile Log,J50,Window Installation, Square Feet/Hour,33723.00 
+P51,Hardscaping Installation,F51,Material Disbursement Log,J51,Trim Installation, Square Feet/Hour,52066.00 
+P52,Irrigation System Installation,F52,Safety Training Log,J52,Staircase Construction, Linear Feet/Hour,31631.00 
+P53,Planting and Sodding,F53,Equipment Calibration Log,J53,Railing Installation, Square Feet/Hour,58763.00 
+P54,Fence and Gate Installation,F54,Worksite Incident Log,J54,Deck Construction, Linear Feet/Hour,68935.00 
+P55,Final Grading and Drainage,F55,Material Inventory Log,J55,Fence Installation, Square Feet/Hour,59878.00 
+P56,Final Site Cleanup,F56,Tool Inventory Log,J56,Landscaping, Square Feet/Hour,26411.00 
+P57,Punch List Creation,F57,Equipment Inspection Log,J57,Lawn Installation, Items/Hour,25961.00 
+P58,Punch List Completion,F58,Material Handling Equipment Log,J58,Tree Planting, Items/Hour,37196.00 
+P59,Final Inspection,F59,Safety Equipment Inventory Log,J59,Shrubbery Planting, Inspections/Hour,27160.00 
+P60,Certificate of Occupancy,F60,Worksite Access Control Log,J60,Irrigation System Installation, Certificates/Hour,48304.00 
+P61,Owner Training and Handover,F61,Vehicle Maintenance Log,J61,Paving, Hours/Training,43421.00 
+P62,Warranty Documentation,F62,Worksite Weather Log,J62,Sidewalk Installation, Documents/Hour,41481.00 
+P63,As-Built Drawings Preparation,F63,Worksite Communication Log,J63,Driveway Installation,Built Drawings Preparation ,32594.00 
+P64,Record Document Compilation,F64,Worksite Incident Report Log,J64,Parking Lot Striping, Sets/Hour,61793.00 
+P65,Closeout Meeting,F65,Material Reconciliation Log,J65,Signage Installation, Meetings/Hour,69029.00 
+P66,Project Closeout,F66,Crew Attendance Log,J66,Lighting Installation, Items/Hour,49694.00 
+P67,Demobilization of Equipment,F67,Safety Briefing Log,J67,Electrical Wiring, Equipment Loads/Hour,25478.00 
+P68,Final Billing and Payment,F68,Environmental Monitoring Log,J68,Plumbing Rough-In, Payments/Hour,58857.00 
+P69,Post-Construction Evaluation,F69,Material Requisition Log,J69,Plumbing Fixture Installation,Construction Evaluation ,32518.00 
+P70,Defects Liability Period,F70,Material Delivery Confirmation Log,J70,HVAC Ductwork Installation, Months,28479.00 
+P71,Maintenance Planning,F71,Crew Deployment Log,J71,HVAC System Installation, Hours/Hour,49363.00 
+P72,Warranty Period Initiation,F72,Incident Response Log,J72,Ventilation Installation, Months,61539.00 
+P73,As-Built Documentation Submission,F73,Material Handling Log,J73,Fire Sprinkler System Installation,Built Documentation Submission ,34354.00 
+P74,Archiving Project Records,F74,Crew Briefing Log,J74,Alarm System Installation, Sets/Hour,69382.00 
+P75,Performance Testing and Balancing,F75,Equipment Deployment Log,J75,Security System Installation, Tests/Hour,73763.00 
+P76,Security System Installation,F76,Safety Equipment Inspection Log,J76,Data Cabling, Systems/Hour,75419.00 
+P77,Fire Suppression System Installation,F77,First Aid Log,J77,Network Installation, Systems/Hour,72105.00 
+P78,Emergency Lighting Installation,F78,Toolbox Talk Log,J78,Audio-Visual System Installation, Lights/Hour,61085.00 
+P79,Commissioning of Systems,F79,Training Record Log,J79,Fireplace Installation, Systems/Hour,69593.00 
+P80,LEED Certification Application,F80,Near Miss Report Log,J80,Appliance Installation, Applications/Hour,29600.00 
+P81,Sustainable Feature Testing,F81,Daily Work Log,J81,Kitchen Fixture Installation, Tests/Hour,57075.00 
+P82,Energy Efficiency Audit,F82,Break Log,J82,Bathroom Fixture Installation, Audits/Hour,61020.00 
+P83,Recycling and Waste Management,F83,Lunch Log,J83,Window Treatment Installation, Tons/Hour,48957.00 
+P84,Green Roof Installation,F84,End-of-Day Inspection,J84,Roofing Installation, Square Feet/Hour,47332.00 
+P85,Solar Panel Installation,F85,Worksite Access Log,J85,Gutter Installation, Panels/Hour,57617.00 
+P86,Rainwater Harvesting System Installation,F86,Vehicle Inspection Log,J86,Solar Panel Installation, Systems/Hour,35375.00 
+P87,Geothermal System Installation,F87,Equipment Usage Log,J87,Chimney Installation, Systems/Hour,32917.00 
+P88,Building Automation System Installation,F88,Material Usage Log,J88,Elevator Installation, Systems/Hour,59158.00 
+P89,Smart Home Technology Integration,F89,Daily Equipment Inspection,J89,Escalator Installation, Systems/Hour,35365.00 
+P90,Access Control System Installation,F90,Material Transfer Log,J90,Awning Installation, Systems/Hour,33011.00 
+P91,Elevator Installation,F91,Waste Disposal Log,J91,Canopy Installation, Elevators/Hour,66189.00 
+P92,Escalator Installation,F92,Safety Observation Log,J92,Skylight Installation, Escalators/Hour,55493.00 
+P93,Staircase Installation,F93,Incident Investigation Log,J93,Green Roof Installation, Linear Feet/Hour,51701.00 
+P94,Ramp Installation,F94,Equipment Maintenance Log,J94,Rainwater Harvesting System Installation, Linear Feet/Hour,70207.00 
+P95,Balcony Installation,F95,Safety Meeting Log,J95,Geothermal System Installation, Square Feet/Hour,52355.00 
+P96,Handrail Installation,F96,Environmental Compliance Log,J96,Building Automation System Installation, Linear Feet/Hour,71801.00 
+P97,Guardrail Installation,F97,Material Stockpile Log,J97,Water Sprinkler System Installation, Linear Feet/Hour,45245.00 
+P98,Awning Installation,F98,Material Disbursement Log,J98,Wiring & Cabling, Square Feet/Hour,42242.00 
+P99,Canopy Installation,F99,Safety Training Log,J99,PVC Works, Square Feet/Hour,40016.00 
+P100,Signage Installation,F100,Equipment Calibration Log,J100,Camera Installation, Signs/Hour,74259.00 
