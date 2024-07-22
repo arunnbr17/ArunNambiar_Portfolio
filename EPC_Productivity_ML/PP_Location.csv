@@ -1,0 +1,9 @@
+LOCATION_ID,CITY,STATE,COUNTRY,ZIP_CODE,TERRAIN_TYPE,MiscCost
+L1,Chennai,Tamilnadu,India,600001,Coromandel,14000
+L2,Bangalore,Karnataka,India,560002,Hill,7000
+L3,Mumbai,Maharashtra,India,400003,Coast,6000
+L4,Delhi,Delhi,India,110001,Flat,5000
+L5,Rajasthan,Rajasthan,India,302012,Desert,13000
+L6,Lucknow,Uttar Pradesh,India,226002,Flat,11000
+L7,Bhubaneswar,Odisha,India,751003,Coast,9000
+L8,Rourkela,Odisha,India,769002,Hill,7000
