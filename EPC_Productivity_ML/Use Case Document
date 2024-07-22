@@ -1,1 +1,12 @@
-Read Me
+An EPC firm is attempting to step up the curve from being a diagnostic reporting driven firm to predictive analytics
+driven firm centring on 2 key use cases.
+1. Assume that they have a standard dataset of workforce productivity metrics, along with history of safety incidents 
+by location. They want to predict the probability of a safety incident occurring based on 3 key factors - Weather 
+conditions, Near Miss and Speak up reporting metrics and Historical Safety Occurrences under the same situations. 
+This will help them save costs on downtime due to safety incidents. A sample scenario – The app should potentially 
+highlight the impact of an upcoming cyclone on operations OR identify a pattern where there were several near misses 
+reported by the same crew before an incident happened. 
+2. They also want to predict the productivity of a workforce (assume a metric like Units per Man Hour) - Given the 
+history of work of a particular phase code (type of work) across several previous jobs and contracts, the history of 
+productivity of a crew, weather conditions in the given location, predict the average productivity rate of a crew at a 
+given location at a given time for a given type of work
