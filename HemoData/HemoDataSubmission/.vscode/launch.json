@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run HemoData ETL",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/HemoDataTest_ETL.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "justMyCode": true 
+        },
+        // ... (rest of the file)
+    ]
+}
