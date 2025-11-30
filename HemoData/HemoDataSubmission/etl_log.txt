@@ -1,0 +1,64 @@
+2025-11-30 22:17:32,898 - ERROR - Failed loading dim_customer
+
+Traceback (most recent call last):
+  File "C:\Users\arunn\Downloads\HemoDataSubmission/HemoDataTest_ETL.py", line 62, in load_dim_customer
+    self.cursor.execute("""
+pyodbc.IntegrityError: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Violation of UNIQUE KEY constraint 'UQ__dim_cust__B611CB9C514AAEFE'. Cannot insert duplicate key in object 'telco.dim_customer'. The duplicate key value is (7590-VHVEG). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+
+2025-11-30 22:17:34,215 - ERROR - Failed to send error email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4791164d365sm194678425e9.12 - gsmtp')
+2025-11-30 22:19:21,635 - ERROR - Failed loading dim_customer
+
+Traceback (most recent call last):
+  File "C:\Users\arunn\Downloads\HemoDataSubmission/HemoDataTest_ETL.py", line 62, in load_dim_customer
+    self.cursor.execute("""
+pyodbc.IntegrityError: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Violation of UNIQUE KEY constraint 'UQ__dim_cust__B611CB9C514AAEFE'. Cannot insert duplicate key in object 'telco.dim_customer'. The duplicate key value is (7590-VHVEG). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+
+2025-11-30 22:19:22,799 - ERROR - Failed to send error email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-479052ec685sm139527685e9.6 - gsmtp')
+2025-11-30 22:19:24,085 - ERROR - Failed loading dim_customer
+
+Traceback (most recent call last):
+  File "C:\Users\arunn\Downloads\HemoDataSubmission/HemoDataTest_ETL.py", line 62, in load_dim_customer
+    self.cursor.execute("""
+pyodbc.IntegrityError: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Violation of UNIQUE KEY constraint 'UQ__dim_cust__B611CB9C514AAEFE'. Cannot insert duplicate key in object 'telco.dim_customer'. The duplicate key value is (7590-VHVEG). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+
+2025-11-30 22:19:25,220 - ERROR - Failed to send error email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4791116c3c0sm195199785e9.8 - gsmtp')
+2025-11-30 22:20:48,427 - ERROR - Failed loading dim_customer
+
+Traceback (most recent call last):
+  File "C:\Users\arunn\Downloads\HemoDataSubmission/HemoDataTest_ETL.py", line 62, in load_dim_customer
+    self.cursor.execute("""
+pyodbc.IntegrityError: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Violation of UNIQUE KEY constraint 'UQ__dim_cust__B611CB9C514AAEFE'. Cannot insert duplicate key in object 'telco.dim_customer'. The duplicate key value is (7590-VHVEG). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+
+2025-11-30 22:20:49,707 - ERROR - Failed to send error email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-42e1ca4078csm21069043f8f.29 - gsmtp')
+2025-11-30 22:24:30,890 - ERROR - Failed loading dim_customer
+
+Traceback (most recent call last):
+  File "C:\Users\arunn\Downloads\HemoDataSubmission/HemoDataTest_ETL.py", line 62, in load_dim_customer
+    self.cursor.execute("""
+pyodbc.IntegrityError: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Violation of UNIQUE KEY constraint 'UQ__dim_cust__B611CB9C514AAEFE'. Cannot insert duplicate key in object 'telco.dim_customer'. The duplicate key value is (7590-VHVEG). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+
+2025-11-30 22:24:32,030 - ERROR - Failed to send error email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-42e1ca9aea3sm20873161f8f.35 - gsmtp')
+2025-11-30 22:30:05,211 - ERROR - Failed loading dim_customer
+
+Traceback (most recent call last):
+  File "C:\Users\arunn\Downloads\HemoDataSubmission/HemoDataTest_ETL.py", line 62, in load_dim_customer
+    self.cursor.execute("""
+pyodbc.IntegrityError: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Violation of UNIQUE KEY constraint 'UQ__dim_cust__B611CB9C514AAEFE'. Cannot insert duplicate key in object 'telco.dim_customer'. The duplicate key value is (7590-VHVEG). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+
+2025-11-30 22:30:06,623 - ERROR - Failed to send error email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-47911143bb6sm216431405e9.3 - gsmtp')
+2025-12-01 00:05:24,398 - ERROR - Failed loading dim_customer
+
+Traceback (most recent call last):
+  File "c:\Users\arunn\Downloads\HemoDataSubmission\HemoDataTest_ETL.py", line 62, in load_dim_customer
+    self.cursor.execute("""
+pyodbc.IntegrityError: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Violation of UNIQUE KEY constraint 'UQ__dim_cust__B611CB9C514AAEFE'. Cannot insert duplicate key in object 'telco.dim_customer'. The duplicate key value is (7590-VHVEG). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+
+2025-12-01 00:05:26,157 - ERROR - Failed to send error email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-42e1caa5d02sm22110316f8f.36 - gsmtp')
+2025-12-01 00:05:44,606 - ERROR - Failed loading dim_customer
+
+Traceback (most recent call last):
+  File "c:\Users\arunn\Downloads\HemoDataSubmission\HemoDataTest_ETL.py", line 62, in load_dim_customer
+    self.cursor.execute("""
+pyodbc.IntegrityError: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Violation of UNIQUE KEY constraint 'UQ__dim_cust__B611CB9C514AAEFE'. Cannot insert duplicate key in object 'telco.dim_customer'. The duplicate key value is (7590-VHVEG). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+
+2025-12-01 00:05:46,054 - ERROR - Failed to send error email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-42e1ca1a396sm21666697f8f.22 - gsmtp')
